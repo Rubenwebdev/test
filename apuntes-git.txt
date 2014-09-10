@@ -3,12 +3,17 @@ pwd: muestra la ruta en la que estas
 git clone "direccion repositorio": 
 git init :
 git add : 
-git commit : aceptar cambios
+git commit -am "descripcion" : aceptar cambios
 git push origin "master": subir archivos
 git pull : bajar archivos
 git remote :
 git status : muestra el stado del directorio
+rm "archivo a borrar": Borra el archivo seleccionado
 
 git branch :
 git checkout :
 git merge :
+
+LA PRIMERA VEZ HAY QUE REALIZAR ESTOS COMANDOS
+git config --global user.name "Ruben"
+git config --global user.email 7rufo7@gmail.com
