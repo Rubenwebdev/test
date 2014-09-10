@@ -4,7 +4,7 @@ git clone "direccion repositorio":
 git init :
 git add : 
 git commit : aceptar cambios
-git push : subir archivos
+git push origin "master": subir archivos
 git pull : bajar archivos
 git remote :
 git status : muestra el stado del directorio
