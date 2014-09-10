@@ -1,0 +1,14 @@
+pwd: muestra la ruta en la que estas
+
+git clone "direccion repositorio": 
+git init :
+git add : 
+git commit : aceptar cambios
+git push : subir archivos
+git pull : bajar archivos
+git remote :
+git status : muestra el stado del directorio
+
+git branch :
+git checkout :
+git merge :
